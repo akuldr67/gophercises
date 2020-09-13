@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "akul.gupta/CLITaskManager/cmd"
 
 func main() {
-	fmt.Println("For initial commit")
+	cmd.RootCmd.Execute()
 }
