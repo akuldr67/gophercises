@@ -1,0 +1,4 @@
+.DS_Store
+CLITaskManager/cmd/go.sum
+CLITaskManager/go.mod
+CLITaskManager/go.sum
